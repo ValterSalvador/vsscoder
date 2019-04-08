@@ -4,4 +4,4 @@ dist
 out
 .DS_Store
 release
-.cache
+.cachenode_modules
